@@ -1,3 +1,4 @@
 this is dev info 
 
 insert into a recoder by jason.gao for windows 
+insert a recode by jason.gao on liunx 
