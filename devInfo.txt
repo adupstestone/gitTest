@@ -1,1 +1,3 @@
 this is dev info 
+
+insert into a recoder by jason.gao for windows 
